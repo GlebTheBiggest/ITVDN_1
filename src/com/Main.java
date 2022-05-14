@@ -42,7 +42,6 @@ public class Main {
         }
 
 
-
         System.out.println("hefjhwbgj");
         //Task 5
         System.out.println("Task 5");
@@ -61,11 +60,5 @@ public class Main {
         int apartment = scanner.nextInt();
         Address address = new Address(index,country,city,street,numberOfHouse,apartment);
         System.out.println(address.toString());
-
-        smth();
-    }
-
-    static void smth() {
-        System.out.println("efnjfgvn");
     }
 }
